@@ -1,0 +1,18 @@
+      
+      .blog{
+           border: 50px solid blue;
+            border-radius: 30px;
+            margin: 10px;
+            width: 30%;
+               }
+       h3{
+           text-align: center;
+       }
+       img{
+           width: 100%;
+       }
+    
+       p{
+           text-align: justify;
+       }
+    
